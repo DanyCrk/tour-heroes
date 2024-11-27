@@ -1,0 +1,6 @@
+.clear{
+    background-color: rgb(77, 116, 116);
+}
+.clear:hover{
+    background-color: black;
+}
